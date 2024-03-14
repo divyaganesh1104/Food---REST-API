@@ -1,0 +1,128 @@
+[
+  {
+    "Food_Item_Name": "Banana",
+    "Food_Group_or_Category": "Fruits",
+    "Description": "A tropical fruit known for its natural sweetness and potassium content.",
+    "Nutritional_Information": {
+      "Calories": 105,
+      "Macronutrients": {
+        "Proteins": "1.3g",
+        "Fats": {
+          "Saturated": "0.4g",
+          "Unsaturated": "0.1g",
+          "Trans_fats": "0g"
+        },
+        "Carbohydrates": "27g"
+      },
+      "Micronutrients": {
+        "Vitamins": {
+          "Vitamin_A": "81IU",
+          "Vitamin_C": "10.3mg",
+          "Vitamin_D": "0IU"
+        },
+        "Minerals": {
+          "Iron": "0.3mg",
+          "Calcium": "6mg",
+          "Potassium": "422mg"
+        }
+      },
+      "Fiber": "3.1g",
+      "Sodium": "1mg",
+      "Cholesterol": "0mg"
+    },
+    "Serving_Size": "1 medium banana (118g)",
+    "Allergens": [],
+    "Ingredients": ["Banana"],
+    "Preparation_Methods": "Can be eaten raw, sliced, blended into smoothies, or used in baking.",
+    "Certifications": [],
+    "Country_of_Origin": "Ecuador",
+    "Brand_or_Manufacturer": "Tropical Farms Inc.",
+    "Dietary_Restrictions": ["None"],
+    "Health_Benefits": "Provides instant energy, aids digestion, supports heart health, and may help lower blood pressure.",
+    "Best_Practices": "Store bananas at room temperature. Avoid refrigerating as it can affect texture and ripening process."
+  },
+  {
+    "Food_Item_Name": "Salmon",
+    "Food_Group_or_Category": "Proteins",
+    "Description": "Fatty fish rich in omega-3 fatty acids, known for its distinctive flavor and tender texture.",
+    "Nutritional_Information": {
+      "Calories": 206,
+      "Macronutrients": {
+        "Proteins": "22g",
+        "Fats": {
+          "Saturated": "4g",
+          "Unsaturated": "10g",
+          "Trans_fats": "0g"
+        },
+        "Carbohydrates": "0g"
+      },
+      "Micronutrients": {
+        "Vitamins": {
+          "Vitamin_A": "50IU",
+          "Vitamin_C": "0mg",
+          "Vitamin_D": "447IU"
+        },
+        "Minerals": {
+          "Iron": "0.4mg",
+          "Calcium": "13mg",
+          "Potassium": "628mg"
+        }
+      },
+      "Fiber": "0g",
+      "Sodium": "55mg",
+      "Cholesterol": "63mg"
+    },
+    "Serving_Size": "3 ounces (85g)",
+    "Allergens": ["Fish"],
+    "Ingredients": ["Salmon"],
+    "Preparation_Methods": "Can be grilled, baked, broiled, or used in sushi and sashimi.",
+    "Certifications": ["Wild-Caught"],
+    "Country_of_Origin": "Norway",
+    "Brand_or_Manufacturer": "Seafood Delights Ltd.",
+    "Dietary_Restrictions": ["None"],
+    "Health_Benefits": "Supports brain health, reduces inflammation, promotes heart health, and may aid in weight loss.",
+    "Best_Practices": "Ensure salmon is cooked to an internal temperature of 145°F (63°C) for safe consumption."
+  },
+  {
+    "Food_Item_Name": "Quinoa",
+    "Food_Group_or_Category": "Grains",
+    "Description": "Ancient grain known for its high protein content and nutty flavor.",
+    "Nutritional_Information": {
+      "Calories": 222,
+      "Macronutrients": {
+        "Proteins": "8g",
+        "Fats": {
+          "Saturated": "0.9g",
+          "Unsaturated": "3.6g",
+          "Trans_fats": "0g"
+        },
+        "Carbohydrates": "39g"
+      },
+      "Micronutrients": {
+        "Vitamins": {
+          "Vitamin_A": "0IU",
+          "Vitamin_C": "0mg",
+          "Vitamin_D": "0IU"
+        },
+        "Minerals": {
+          "Iron": "2.8mg",
+          "Calcium": "31mg",
+          "Potassium": "318mg"
+        }
+      },
+      "Fiber": "5g",
+      "Sodium": "13mg",
+      "Cholesterol": "0mg"
+    },
+    "Serving_Size": "1 cup cooked (185g)",
+    "Allergens": ["None"],
+    "Ingredients": ["Quinoa"],
+    "Preparation_Methods": "Can be boiled, steamed, or used in salads, soups, or side dishes.",
+    "Certifications": ["Organic"],
+    "Country_of_Origin": "Peru",
+    "Brand_or_Manufacturer": "Andean Harvest Co.",
+    "Dietary_Restrictions": ["Gluten-Free", "Vegetarian", "Vegan"],
+    "Health_Benefits": "Gluten-free alternative to grains, high in fiber, aids weight management, and may improve metabolic health.",
+    "Best_Practices": "Rinse quinoa before cooking to remove bitter saponin residue. Cook with a 2:1 water to quinoa ratio."
+  }
+]
